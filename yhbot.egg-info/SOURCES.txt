@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+yhbot/__init__.py
+yhbot.egg-info/PKG-INFO
+yhbot.egg-info/SOURCES.txt
+yhbot.egg-info/dependency_links.txt
+yhbot.egg-info/entry_points.txt
+yhbot.egg-info/not-zip-safe
+yhbot.egg-info/top_level.txt
